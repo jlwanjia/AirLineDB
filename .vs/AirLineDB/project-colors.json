@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e286b611-cb57-41d4-bdba-74b5c9ef3316": {
+      "ProjectGuid": "e286b611-cb57-41d4-bdba-74b5c9ef3316",
+      "DisplayName": "AirLineDB",
+      "ColorIndex": 0
+    },
+    "72bd6bd6-bcaa-4678-be74-69a55e7443ab": {
+      "ProjectGuid": "72bd6bd6-bcaa-4678-be74-69a55e7443ab",
+      "DisplayName": "Airline",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
